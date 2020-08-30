@@ -1,6 +1,16 @@
 # Face-verification-using-One-shot-learning
 Implementing one-shot learning using FaceNet
 
+## Results
+
+Authentication Failed :
+
+<img src='https://raw.githubusercontent.com/foo290/Face-verification-using-One-shot-learning/master/image/test1.png' height=300px float='left'>
+
+Authenticated successfully :
+
+<img src='https://raw.githubusercontent.com/foo290/Face-verification-using-One-shot-learning/master/image/test2.png' height=300px float='left'>
+
 ## Setup and Runtime
 The FaceNet model can be downloaded from <a href='https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn'>here.</a>
 
